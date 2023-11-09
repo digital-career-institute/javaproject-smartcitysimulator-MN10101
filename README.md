@@ -20,7 +20,7 @@ Represents a sensor used for environmental monitoring.
 Attributes: type (type of sensor), cValue (current measured value).
 Methods: measure (simulates measuring data), getcValue (returns the current measured value).
 
-**3.**TrafficManagement
+**3.TrafficManagement**
 Simulates smart traffic management.
 Uses a list of vehicles to represent traffic.
 Periodically updates the speed of each vehicle and displays the current state.
